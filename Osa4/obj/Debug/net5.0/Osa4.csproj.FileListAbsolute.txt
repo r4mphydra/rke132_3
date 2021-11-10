@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.exe
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.deps.json
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.dll
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\ref\Osa4.dll
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\bin\Debug\net5.0\Osa4.pdb
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.dll
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\ref\Osa4.dll
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.pdb
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.genruntimeconfig.cache
+C:\Users\Artjom\Documents\RKE132\PersonalityTest\Osa4\obj\Debug\net5.0\Osa4.csproj.AssemblyReference.cache
